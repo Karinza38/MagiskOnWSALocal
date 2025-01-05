@@ -1,4 +1,4 @@
-# Magisk on WSA (with Google Apps)
+ # Magisk on WSA (with Google Apps)
 
 :warning: Magisk on WSA will no longer be available after March 5, 2025. [Learn more](https://learn.microsoft.com/en-us/windows/android/wsa/).
 
